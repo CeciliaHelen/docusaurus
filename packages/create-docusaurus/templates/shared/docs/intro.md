@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial Intro TESTE TESTE 
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
@@ -34,6 +34,8 @@ The command also installs all necessary dependencies you need to run Docusaurus.
 ## Start your site
 
 Run the development server:
+
+TESTE
 
 ```bash
 cd my-website
